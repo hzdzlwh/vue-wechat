@@ -46,6 +46,9 @@
             "enterAnimate": "",
             "leaveAnimate": ""
         }
+    },
+    created(){
+      
     }
 }
 </script>

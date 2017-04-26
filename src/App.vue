@@ -49,6 +49,9 @@
     },
     created(){
       
+    },
+    components:{
+      
     }
 }
 </script>

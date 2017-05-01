@@ -52,6 +52,9 @@
     },
     components:{
       
+    },
+    mounted(){
+      
     }
 }
 </script>
